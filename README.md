@@ -30,14 +30,14 @@
 ## 1️⃣ 레벨1
 |Project|Repository|Pull Request|Term|
 |:------:|:---------:|:-----------:|:-----:|
-|🏎️ 자동차 경주 게임|[java-racingcar/step1](https://github.com/Hyeon9mak/java-racingcar/tree/step1)|[[1단계 - 자동차 경주 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-racingcar/pull/181)|2021-02-02 ~ 2021-02|
-| |[java-racingcar/step2](https://github.com/Hyeon9mak/java-racingcar/tree/step2)|[[2단계 - 자동차 경주 리팩토링] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-racingcar/pull/199)|2021-|
-|🎱 로또|[java-lotto/step1](https://github.com/Hyeon9mak/java-lotto/tree/step1)|[[1단계 - 로또 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-lotto/pull/275)|2021-|
-| |[java-lotto/step2](https://github.com/Hyeon9mak/java-lotto/tree/step2)|[[2단계 - 로또 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-lotto/pull/309)|2021-|
-|🃏 블랙잭|[java-blackjack/step1](https://github.com/Hyeon9mak/java-blackjack/tree/step1)|[[1단계 - 블랙잭 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-blackjack/pull/147)|2021-|
-| |[java-blackjack/step2](https://github.com/Hyeon9mak/java-blackjack/tree/step2)|[[2단계 - 블랙잭 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-blackjack/pull/200)|2021-|
-|♟️ 체스|[java-chess/step1](https://github.com/Hyeon9mak/java-chess/tree/step1)|[[1,2,3단계 - 체스] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-chess/pull/207)|2021-|
-| |[java-chess/step2](https://github.com/Hyeon9mak/java-chess/tree/step2)|[[4, 5단계 체스] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-chess/pull/240)|2021-|
+|🏎️ 자동차 경주 게임|[java-racingcar/step1](https://github.com/Hyeon9mak/java-racingcar/tree/step1)|[[1단계 - 자동차 경주 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-racingcar/pull/181)|2021-02-03 ~ 2021-02-07|
+| |[java-racingcar/step2](https://github.com/Hyeon9mak/java-racingcar/tree/step2)|[[2단계 - 자동차 경주 리팩토링] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-racingcar/pull/199)|2021-02-08 ~ 2021-02-15|
+|🎱 로또|[java-lotto/step1](https://github.com/Hyeon9mak/java-lotto/tree/step1)|[[1단계 - 로또 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-lotto/pull/275)|2021-02-16 ~ 2021-02-18|
+| |[java-lotto/step2](https://github.com/Hyeon9mak/java-lotto/tree/step2)|[[2단계 - 로또 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-lotto/pull/309)|2021-02-19 ~ 2021-03-01|
+|🃏 블랙잭|[java-blackjack/step1](https://github.com/Hyeon9mak/java-blackjack/tree/step1)|[[1단계 - 블랙잭 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-blackjack/pull/147)|2021-03-02 ~ 2021-03-04|
+| |[java-blackjack/step2](https://github.com/Hyeon9mak/java-blackjack/tree/step2)|[[2단계 - 블랙잭 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-blackjack/pull/200)|2021-03-05 ~ 2021-03-15|
+|♟️ 체스|[java-chess/step1](https://github.com/Hyeon9mak/java-chess/tree/step1)|[[1,2,3단계 - 체스] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-chess/pull/207)|2021-03-16 ~ 2021-03-22|
+| |[java-chess/step2](https://github.com/Hyeon9mak/java-chess/tree/step2)|[[4, 5단계 체스] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-chess/pull/240)|2021-03-23 ~ 2021-2021-04-02|
 
 ### 블로그 포스팅
 - [Java package와 import](https://hyeon9mak.github.io/Java-package-and-import/)
