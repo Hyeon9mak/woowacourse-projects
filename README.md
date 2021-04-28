@@ -38,6 +38,8 @@
 | |[java-blackjack/step2](https://github.com/Hyeon9mak/java-blackjack/tree/step2)|[[2단계 - 블랙잭 구현] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-blackjack/pull/200)|2021-03-05 ~ 2021-03-15|
 |♟️ 체스|[java-chess/step1](https://github.com/Hyeon9mak/java-chess/tree/step1)|[[1,2,3단계 - 체스] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-chess/pull/207)|2021-03-16 ~ 2021-03-22|
 | |[java-chess/step2](https://github.com/Hyeon9mak/java-chess/tree/step2)|[[4, 5단계 체스] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/java-chess/pull/240)|2021-03-23 ~ 2021-2021-04-02|
+|📝 JS 투두리스트 |[js-todo-list-step1](https://github.com/Hyeon9mak/js-todo-list-step1/tree/step1)|[[1단계 - todo list] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/js-todo-list-step1/pull/45)|2021-03-25 ~ 2021-03-29|
+| |[js-todo-list-step2](https://github.com/Hyeon9mak/js-todo-list-step2/tree/hyeon9mak)|[[2단계 - todo list] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/js-todo-list-step2/pull/9)|2021-04-08 ~ 2021-04-10|
 
 ### 블로그 포스팅
 - [Java package와 import](https://hyeon9mak.github.io/Java-package-and-import/)
@@ -58,5 +60,13 @@
 - [DTO vs VO](https://hyeon9mak.github.io/DTO-vs-VO/)
 - [우아한테크코스 체스 미션 회고](https://hyeon9mak.github.io/우아한테크코스-체스-미션-회고/)
 - [원시값 포장과 VO는 서로 같은가?](https://hyeon9mak.github.io/is-same-wrapping-class-and-VO/)
+
+<br>
+
+## 레벨2
+|Project|Repository|Pull Request|Term|
+|:------:|:---------:|:-----------:|:-----:|
+
+### 블로그 포스팅
 
 <br>
