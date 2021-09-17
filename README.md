@@ -97,6 +97,8 @@
 
 ## 레벨3
 ### 팀 프로젝트
+![image](https://user-images.githubusercontent.com/37354145/133726095-711b5545-eb86-4344-aa4b-ce4bae5ba109.png)
+
 - [키워드 기반 빠른 게임 팀 매칭 서비스 - babble.gg](https://babble.gg/)
 - [2021-babble Repository](https://github.com/woowacourse-teams/2021-babble)
 
