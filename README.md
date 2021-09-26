@@ -95,7 +95,7 @@
 
 <br>
 
-## 레벨3
+## 3️⃣ 레벨3
 ### 팀 프로젝트
 ![image](https://user-images.githubusercontent.com/37354145/133726095-711b5545-eb86-4344-aa4b-ce4bae5ba109.png)
 
