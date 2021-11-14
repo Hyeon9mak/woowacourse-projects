@@ -139,19 +139,19 @@
 <br>
 
 ## 4️⃣ 레벨4
-|Project|Repository|Pull Request|Term|
-|:------:|:---------:|:-----------:|:-----:|
-|🖥️ HTTP 서버 구현하기|[jwp-dashboard-http/step1](https://github.com/Hyeon9mak/jwp-dashboard-http/tree/step1)|[[HTTP 서버 구현하기 - 1단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-http/pull/26)|2021-04-13 ~ 2021-04-26|
-| |[jwp-dashboard-http/step2](https://github.com/Hyeon9mak/jwp-dashboard-http/tree/step2)|[[HTTP 서버 구현하기 - 2, 3단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-http/pull/77)|2021-04-26 ~ 2021-05-06|
-|🖥️ MVC 프레임워크 구현하기|[jwp-dashboard-mvc/step1](https://github.com/Hyeon9mak/jwp-dashboard-mvc/tree/step1)|[[MVC 구현하기 - 1단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-mvc/pull/31)|2021-04-13 ~ 2021-04-26|
-| |[jwp-dashboard-mvc/step2](https://github.com/Hyeon9mak/jwp-dashboard-mvc/tree/step2)|[[MVC 구현하기 - 2단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-mvc/pull/58)|2021-04-26 ~ 2021-05-06|
-| |[jwp-dashboard-mvc/step3](https://github.com/Hyeon9mak/jwp-dashboard-mvc/tree/step3)|[[MVC 구현하기 - 3단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-mvc/pull/96)|2021-04-26 ~ 2021-05-06|
-|🖥️ JDBC 라이브러리 구현하기|[jwp-dashboard-jdbc/step1](https://github.com/Hyeon9mak/jwp-dashboard-jdbc/tree/step1)|[[JDBC 라이브러리 구현하기 - 1, 2단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/34)|2021-04-13 ~ 2021-04-26|
-|💾 조회 성능 개선하기|[sql-tuning/step1](https://github.com/Hyeon9mak/sql-tuning/tree/step1)|[[조회 성능 개선하기] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/sql-tuning/pull/20)|2021-04-13 ~ 2021-04-26|
-|🛠️ 레거시 코드 리팩터링|[jwp-refactoring/step1](https://github.com/Hyeon9mak/jwp-refactoring/tree/step1)|[[레거시 코드 리팩터링 - 1단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-refactoring/pull/144)|2021-04-13 ~ 2021-04-26|
-| |[jwp-refactoring/step2](https://github.com/Hyeon9mak/jwp-refactoring/tree/step2)| - | - |
-| |[jwp-refactoring/step3](https://github.com/Hyeon9mak/jwp-refactoring/tree/step3)| - | - |
-| |[jwp-refactoring/step4](https://github.com/Hyeon9mak/jwp-refactoring/tree/step4)| - | - |
+|Project|Repository|Pull Request|
+|:------:|:---------:|:-----------:|
+|🖥️ HTTP 서버 구현하기|[jwp-dashboard-http/step1](https://github.com/Hyeon9mak/jwp-dashboard-http/tree/step1)|[[HTTP 서버 구현하기 - 1단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-http/pull/26)|
+| |[jwp-dashboard-http/step2](https://github.com/Hyeon9mak/jwp-dashboard-http/tree/step2)|[[HTTP 서버 구현하기 - 2, 3단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-http/pull/77)|
+|🖥️ MVC 프레임워크 구현하기|[jwp-dashboard-mvc/step1](https://github.com/Hyeon9mak/jwp-dashboard-mvc/tree/step1)|[[MVC 구현하기 - 1단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-mvc/pull/31)|
+| |[jwp-dashboard-mvc/step2](https://github.com/Hyeon9mak/jwp-dashboard-mvc/tree/step2)|[[MVC 구현하기 - 2단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-mvc/pull/58)|
+| |[jwp-dashboard-mvc/step3](https://github.com/Hyeon9mak/jwp-dashboard-mvc/tree/step3)|[[MVC 구현하기 - 3단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-mvc/pull/96)|
+|🖥️ JDBC 라이브러리 구현하기|[jwp-dashboard-jdbc/step1](https://github.com/Hyeon9mak/jwp-dashboard-jdbc/tree/step1)|[[JDBC 라이브러리 구현하기 - 1, 2단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/34)|
+|💾 조회 성능 개선하기|[sql-tuning/step1](https://github.com/Hyeon9mak/sql-tuning/tree/step1)|[[조회 성능 개선하기] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/sql-tuning/pull/20)|
+|🛠️ 레거시 코드 리팩터링|[jwp-refactoring/step1](https://github.com/Hyeon9mak/jwp-refactoring/tree/step1)|[[레거시 코드 리팩터링 - 1단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-refactoring/pull/144)|
+| |[jwp-refactoring/step2](https://github.com/Hyeon9mak/jwp-refactoring/tree/step2)| [[레거시 코드 리팩터링 - 2단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-refactoring/pull/170) |
+| |[jwp-refactoring/step3](https://github.com/Hyeon9mak/jwp-refactoring/tree/step3)| - |
+| |[jwp-refactoring/step4](https://github.com/Hyeon9mak/jwp-refactoring/tree/step4)| - |
 
 ### 블로그 포스팅
 - [SonarCloud 적용 트러블 슈팅](https://hyeon9mak.github.io/sonarcloud-trouble-shooting/)
