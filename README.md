@@ -167,8 +167,8 @@
 ## PROLOG
 ![image](https://user-images.githubusercontent.com/37354145/140705942-95e18b36-8cab-44d8-a8e9-b4c7350e7730.png)
 
-- [키워드 기반 빠른 게임 팀 매칭 서비스 - babble.gg](https://prolog.techcourse.co.kr)
-- [2021-babble Repository](https://github.com/woowacourse/prolog)
+- [프로들의 학습로그, 프롤로그 - prolog.techcourse.co.kr](https://prolog.techcourse.co.kr)
+- [prolog Repository](https://github.com/woowacourse/prolog)
 
 <br>
 
