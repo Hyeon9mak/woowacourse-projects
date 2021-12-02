@@ -150,7 +150,7 @@
 |💾 조회 성능 개선하기|[sql-tuning/step1](https://github.com/Hyeon9mak/sql-tuning/tree/step1)|[[조회 성능 개선하기] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/sql-tuning/pull/20)| - |
 |🛠️ 레거시 코드 리팩터링|[jwp-refactoring/step1](https://github.com/Hyeon9mak/jwp-refactoring/tree/step1)|[[레거시 코드 리팩터링 - 1단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-refactoring/pull/144)| - |
 | |[jwp-refactoring/step2](https://github.com/Hyeon9mak/jwp-refactoring/tree/step2)| [[레거시 코드 리팩터링 - 2단계] 현구막(최현구) 미션 제출합니다.](https://github.com/woowacourse/jwp-refactoring/pull/170) | - |
-| |[jwp-refactoring/step3](https://github.com/Hyeon9mak/jwp-refactoring/tree/step3)| - | - |
+| |[jwp-refactoring/step3](https://github.com/Hyeon9mak/jwp-refactoring/tree/step3)| [[레거시 코드 리팩터링 - 3단계] 현구막(최현구) 미션 제출합니다. ](https://github.com/woowacourse/jwp-refactoring/pull/197) | - |
 | |[jwp-refactoring/step4](https://github.com/Hyeon9mak/jwp-refactoring/tree/step4)| - | - |
 
 ### 블로그 포스팅
